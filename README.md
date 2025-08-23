@@ -14,6 +14,6 @@ Neste repositório, serão adicionados todos os arquivos das atividades realizad
 Passos para instalar e configurar o projeto:
 
 ```Bash
-git clone https://...../.git
+git clone https://github.com/stefanils25/desenvweb2025.git
 cd projeto
 npm install
